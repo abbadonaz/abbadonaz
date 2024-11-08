@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>I'm a computational scientist with a PL/EU citizenship, specializing in computational chemistry.</p>
+</div>
+
+
 <!--
 **abbadonaz/abbadonaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
