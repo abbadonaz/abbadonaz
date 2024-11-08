@@ -2,7 +2,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a computational scientist with a PL/EU citizenship, specializing in computational chemistry.</p>
+    <p>I'm a computational scientist with a PL/EU citizenship, specializing in computational chemistry. I created this repository to share snippets of my work and have this additional motivation to work on the improvement of my skills :D </p>
 </div>
 
 
