@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbadonaz&label=Profile%20views&color=0e75b6&style=flat" alt="abbadonaz" /> </p>
 
-- 🔭 I’m currently working on **a series of small cheminformatics projects**
+- 🔭 I’m currently working on **a series of small cheminformatics projects** [Cheminformatics](https://github.com/abbadonaz/Cheminformatics/tree/main)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
