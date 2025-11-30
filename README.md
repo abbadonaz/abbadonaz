@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agata</h1>
-<h3 align="center">Computational Scientist | PL/EU Citizen | Advancing Computational Chemistry Through Shared Insights and Collaborative Projects</h3>
+<h3 align="center">Computational Chemist / Data Scientist | PL/EU Citizen | Advancing Computational Chemistry Through Shared Insights and Collaborative Projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbadonaz&label=Profile%20views&color=0e75b6&style=flat" alt="abbadonaz" /> </p>
 
