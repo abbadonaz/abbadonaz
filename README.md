@@ -137,7 +137,7 @@ Each project includes a clear problem definition, methodology, results, and disc
 <h3>🤝 Connect with Me</h3>
 
 <p align="left">
-  <a href="https://kaggle.com/agataziba" target="_blank" rel="noreferrer">
+  <a href="https://www.kaggle.com/agazie" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="agataziba" height="30" width="40" />
   </a>
 </p>
