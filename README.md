@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agata</h1>
 <h3 align="center">
-PhD Computational Chemist | Pharma AI & Machine Learning | PL / EU Citizen
+PhD Computational Chemist | Pharma AI & Machine Learning | 
 </h3>
 
 <p align="center">
@@ -53,39 +53,6 @@ My background combines:
   <li>Scientific data analysis with reproducible pipelines</li>
 </ul>
 
-
-<h3>🧠 Technical Stack</h3>
-
-<b>Programming & Data</b>
-<ul>
-  <li>Python</li>
-  <li>NumPy, pandas</li>
-  <li>SQL (SQLite, MySQL – basic/intermediate)</li>
-</ul>
-
-<b>Machine Learning & AI</b>
-<ul>
-  <li>scikit-learn</li>
-  <li>PyTorch</li>
-  <li>Classical ML (Random Forest, XGBoost, CatBoost)</li>
-  <li>Deep Learning (NNs, CNNs, GNN basics)</li>
-</ul>
-
-<b>Cheminformatics & Scientific Computing</b>
-<ul>
-  <li>RDKit</li>
-  <li>Molecular descriptors & fingerprints</li>
-  <li>QSAR modeling</li>
-  <li>Model interpretability (SHAP)</li>
-</ul>
-
-<b>MLOps & Engineering</b>
-<ul>
-  <li>MLflow</li>
-  <li>FastAPI</li>
-  <li>Docker</li>
-  <li>Git / GitHub</li>
-</ul>
 
 
 <h3>🤝 Connect with Me</h3>
