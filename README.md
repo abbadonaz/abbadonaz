@@ -16,7 +16,7 @@ Advancing drug discovery through machine learning, deep learning, and data-drive
 <h3>🔬 About Me</h3>
 
 <p>
-I am a pharmacist with a PhD in computational chemistry, currently focusing on
+PhD in computational chemistry, currently focusing on
 <b>AI and Machine Learning applications in pharmaceutical R&D</b>.
 </p>
 
@@ -29,11 +29,6 @@ My background combines:
   <li>statistical and machine learning modeling</li>
   <li>deep learning for scientific data</li>
 </ul>
-
-<p>
-I am particularly interested in roles where <b>scientific reasoning meets applied AI</b>,
-such as Pharma AI Scientist, Applied ML Scientist, or (alternatively) Machine Learning Engineer.
-</p>
 
 ---
 
@@ -58,18 +53,6 @@ such as Pharma AI Scientist, Applied ML Scientist, or (alternatively) Machine Le
   <li>Scientific data analysis with reproducible pipelines</li>
 </ul>
 
----
-
-<h3>📜 Certificates & Education</h3>
-
-<ul>
-  <li><b>IBM AI Engineer Professional Certificate</b> (in progress)</li>
-  <li><b>IBM Data Science Professional Certificate</b></li>
-  <li>PhD in Computational Chemistry</li>
-  <li>MSc in Pharmacy</li>
-</ul>
-
----
 
 <h3>🧠 Technical Stack</h3>
 
@@ -104,35 +87,6 @@ such as Pharma AI Scientist, Applied ML Scientist, or (alternatively) Machine Le
   <li>Git / GitHub</li>
 </ul>
 
----
-
-<h3>📌 Featured / Pinned Projects</h3>
-
-<p>
-⬇️ Please see pinned repositories below for curated projects focused on:
-</p>
-
-<ul>
-  <li>QSAR & ADMET prediction</li>
-  <li>Deep learning for molecular properties</li>
-  <li>Multimodal AI in drug discovery</li>
-  <li>End-to-end ML pipelines (training → deployment)</li>
-</ul>
-
-<p>
-Each project includes a clear problem definition, methodology, results, and discussion.
-</p>
-
----
-
-<h3>🌍 Career Goals</h3>
-
-<ul>
-  <li><b>Primary:</b> AI / Machine Learning Scientist / Data Scientist role in pharma, biotech, or life sciences R&D</li>
-  <li><b>Alternative:</b> Machine Learning Engineer role in industry</li>
-</ul>
-
----
 
 <h3>🤝 Connect with Me</h3>
 
