@@ -18,42 +18,11 @@ Advancing drug discovery through machine learning, deep learning, and data-drive
 <p>
 PhD in computational chemistry, currently focusing on
 <b>AI and Machine Learning applications in pharmaceutical R&D</b>.
+
+Take a look at the summary of latest publications in PH: https://abbadonaz.github.io/ai-drug-discovery-digest/
 </p>
 
-<p>
-My background combines:
-</p>
-
-<ul>
-  <li>computational chemistry & cheminformatics</li>
-  <li>statistical and machine learning modeling</li>
-  <li>deep learning for scientific data</li>
-</ul>
-
 ---
-
-<h3>🎯 Focus Areas</h3>
-
-<ul>
-  <li>QSAR & ADMET prediction</li>
-  <li>Machine learning for molecular property modeling</li>
-  <li>Deep learning for chemical representations</li>
-  <li>Multimodal ML (chemistry + biological data)</li>
-  <li>Applied AI in pharmaceutical R&D</li>
-</ul>
-
----
-
-<h3>🧪 Computational Chemistry Background</h3>
-
-<ul>
-  <li>PhD research in computational chemistry</li>
-  <li>Molecular modeling and data-driven analysis of chemical compounds</li>
-  <li>Cheminformatics workflows and feature engineering</li>
-  <li>Scientific data analysis with reproducible pipelines</li>
-</ul>
-
-
 
 <h3>🤝 Connect with Me</h3>
 
